@@ -1,0 +1,52 @@
+body, html { 
+	font-family: 'Anybody', cursive;
+	background: url(hd-wallpaper.jpg) no-repeat center center fixed;
+  	background-size: cover;
+  	height: 100%;
+  	overflow: hidden;
+
+ }
+
+ h1{
+ 	font-size: 3rem;
+ 	color: white;
+
+ }
+ hr{
+
+ 	margin: 20px auto;
+    color: #278A7F;
+    border: 3px solid #278A7F;
+    max-width: 65px;
+    opacity: 1;  
+ }
+
+ .btn{
+
+ 	font-weight: 700;
+ 	border-radius: 300px;
+ 	text-transform: uppercase;
+ }
+
+ .btn-info{
+
+ 	background-color: #278A7F;
+ 	border: 2px solid #274B47;
+ }
+  .btn-info:hover{
+
+ 	background-color: #21B0A1;
+ 	border: 2px solid #274B47;
+
+ }
+
+
+
+ .btn-xl{
+padding: 1rem 2rem;
+
+ }
+
+ .buffer{
+ 	height: 8rem;
+ }
